@@ -1,7 +1,7 @@
 {
   "name": "midjourney",
   "version": "1.0.0",
-  "description": "An application using Midjourney",
+  "description": "This Node.js script uses the Replicate API to generate images with AI models. Choose from multiple models, customize prompts, and control image properties. A versatile tool for creative exploration.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"

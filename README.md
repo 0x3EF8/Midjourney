@@ -1,6 +1,8 @@
 # Midjourney Image Generator
 This Node.js script uses the Replicate API to generate images with AI models. Choose from multiple models, customize prompts, and control image properties. A versatile tool for creative exploration.
 
+![preview](Midjourney.jpg)
+
 ## Models available for use:
 - openjourney
 - midjourney-diffusion
@@ -28,5 +30,5 @@ async function Midjourney(
   console.log(await Midjourney('Mark Zuckerberg kissing Elon Musk'));
 })();
 
-![preview](Midjourney.jpg)
+
 

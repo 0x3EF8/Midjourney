@@ -1,0 +1,15 @@
+{
+  "name": "midjourney",
+  "version": "1.0.0",
+  "description": "An application using Midjourney",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Jay Patrick Cano",
+  "license": "MIT",
+  "dependencies": {
+  "axios": "^1.4.0",
+  "fake-useragent": "^1.0.1"
+  }
+}
